@@ -1,0 +1,6 @@
+Cobz Version 3
+
+Added text wrapping and resizeability.
+Moved syntax recognition for code to syntax_config.py
+
+(c) 2026 Poniek Labs -- Made by Erik W
